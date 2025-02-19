@@ -2,11 +2,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35¢er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naman!;" />
 </h1>
 
-<p align="center">
-<img align="right" alt="Coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-</p>
-<h3 align="center">A tech enthusiast and programmer who plays Python, C++, and Java</h3>
+<!-- Using a table for layout control -->
+<table width="100%">
+  <tr>
+    <td width="65%">
+      <h3 align="center">A tech enthusiast and programmer who plays Python, C++, and Java</h3>
+    </td>
+    <td width="35%">
+       <img align="right" alt="Coding" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+    </td>
+  </tr>
+</table>
 <br/>
+
 <div align="center">
 
  💻 I work with **Arch Linux + Hyprland**
@@ -25,7 +33,6 @@
     <a href="https://t.me/Naman130"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 </div>
-
 
 <h2 align="center">⚒️ Technologies & Tools ⚒️</h2>
 <br/>
