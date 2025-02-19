@@ -44,5 +44,5 @@
 </div>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imChronos&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imChronos&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" align="center"  />
 </p>
