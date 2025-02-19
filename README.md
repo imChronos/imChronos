@@ -2,17 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35¢er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naman!;" />
 </h1>
 
-<!-- Using a table for layout control -->
-<table width="100%">
-  <tr>
-    <td width="65%">
-      <h3 align="center">A tech enthusiast and programmer who plays Python, C++, and Java</h3>
-    </td>
-    <td width="35%">
-       <img align="right" alt="Coding" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-    </td>
-  </tr>
-</table>
+<p align="center">
+<img align="right" alt="Coding" width="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<h3 align="center">A tech enthusiast and programmer who plays Python, C++, and Java</h3>
+</p>
 <br/>
 
 <div align="center">
