@@ -38,7 +38,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/imChronos/imChronos/output/github-contribution-grid-snake.svg" />
+  <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/imChronos/imChronos/main/github-contribution-grid-snake.svg" />
   
   <br/>
 </div>
