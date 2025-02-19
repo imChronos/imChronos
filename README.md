@@ -1,8 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naman!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35¢er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naman!;" />
 </h1>
-<p align="left"><img align="right" alt="Coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
+<p align="center">
+<img align="right" alt="Coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+</p>
 <h3 align="center">A tech enthusiast and programmer who plays Python, C++, and Java</h3>
 <br/>
 <div align="center">
